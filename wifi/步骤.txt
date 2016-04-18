@@ -1,0 +1,11 @@
+sudo apt-get install mysql-server mysql-client 安装mysql数据库
+
+apt-get install python-mysqldb 安装MySQLdb
+
+pip install web.py 安装web.py
+
+source   ttwifi.sql;导入数据库文件
+
+python get.py 开启扫描模式
+
+python list.py 开启web.py服务器
